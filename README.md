@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on local project<br>🌱 I’m currently learning Rust<br>💬 Ask me about Laravel & DataBase
+🔭 I’m currently working on local project<br>🌱 I’m currently learning Kubernetes<br>💬 Ask me about Laravel & Docker
 
 
 ## 🌐 Socials:
